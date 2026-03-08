@@ -20,4 +20,4 @@ A little bit about me:
 - 🧑‍🎓 I'm an Electrical and Computer Engineering student @ AUTh
 - 🛰️ Former Payload Systems & Embedded Software/Hardware Engineer in @AcubeSAT
 - 🧠 Passionate about Machine Learning, Digital Signal Processing, and Embedded AI
-- ✨ You can check out my portfolio and projects at my https://gsklaven.github.io/MySite/
+- ✨ You can check out my portfolio and projects at https://gsklaven.github.io/MySite/
