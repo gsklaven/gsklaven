@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+<!--  
 **gsklaven/gsklaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey there 👋 Welcome to my profile!
+
+My name is Georgios Sklavenitis. 
+A little bit about me:
+
+🧑‍🎓 I'm an Electrical and Computer Engineering student @ AUTh
+🛰️ Former Payload Systems & Embedded Software/Hardware Engineer in @AcubeSAT
+🧠 Passionate about Machine Learning, Digital Signal Processing, and Embedded AI
+✨ You can check out my portfolio and projects at my[[site](https://gsklaven.github.io/MySite/)]
