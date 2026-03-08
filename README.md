@@ -17,10 +17,7 @@ Hey there 👋 Welcome to my profile!
 My name is Georgios Sklavenitis. 
 A little bit about me:
 
-🧑‍🎓 I'm an Electrical and Computer Engineering student @ AUTh
-
-🛰️ Former Payload Systems & Embedded Software/Hardware Engineer in @AcubeSAT
-
-🧠 Passionate about Machine Learning, Digital Signal Processing, and Embedded AI
-
-✨ You can check out my portfolio and projects at my [site](https://gsklaven.github.io/MySite/)
+- 🧑‍🎓 I'm an Electrical and Computer Engineering student @ AUTh
+- 🛰️ Former Payload Systems & Embedded Software/Hardware Engineer in @AcubeSAT
+- 🧠 Passionate about Machine Learning, Digital Signal Processing, and Embedded AI
+- ✨ You can check out my portfolio and projects at my https://gsklaven.github.io/MySite/
